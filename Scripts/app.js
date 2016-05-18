@@ -39,7 +39,7 @@
             firstParagraphIsClicked = false;
         }
         else {
-            firstPTag.style.color = "#ff0000";
+            firstPTag.style.color = "#00F";
             firstParagraphIsClicked = true;
         }
     }
