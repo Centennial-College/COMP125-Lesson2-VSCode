@@ -51,7 +51,7 @@
             firstParagraphWasHovered = false;
         }
         else {
-            firstPTag.style.color = "#00ff00";
+            firstPTag.style.color = "#00ffff";
             firstParagraphWasHovered = true;
         }
     }
